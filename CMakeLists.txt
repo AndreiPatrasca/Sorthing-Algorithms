@@ -1,6 +1,12 @@
 cmake_minimum_required(VERSION 3.27)
-project(BubbleSortTest)
+project(SortingAlgorithms)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(BubbleSortTest main.cpp)
+add_executable(BubbleSort BubbleSort.cpp)
+add_executable(RadishSort RadishSort.cpp)
+add_executable(CountSort CountSort.cpp)
+add_executable(SelectionSort SelectionSort.cpp)
+add_executable(InsertionSort InsertionSort.cpp)
+add_executable(MergeSort MergeSort.cpp)
+add_executable(QuickSort QuickSort.cpp)

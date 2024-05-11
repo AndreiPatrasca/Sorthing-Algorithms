@@ -1,3 +1,9 @@
-C:/Users/Andrei/CLionProjects/BubbleSortTest/cmake-build-debug/CMakeFiles/BubbleSortTest.dir
-C:/Users/Andrei/CLionProjects/BubbleSortTest/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Andrei/CLionProjects/BubbleSortTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/BubbleSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/RadishSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/CountSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/SelectionSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/InsertionSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/MergeSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/QuickSort.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andrei/CLionProjects/Sorthing-Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

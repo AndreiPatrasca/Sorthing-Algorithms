@@ -30,32 +30,29 @@ private:
 
 using namespace std;
 int main() {
-    int n, i, val = 0, v[19000], sorted, j;
+    int n, i, val = 0, X[19000], sorted, j;
     cin>>n;
     for(i=0;i<n;i++)
-        cin>>v[i];
+    cin>>X[i];
 
 
     {
         Timer timer;
 
-        bool sortat;
-        do {
-            sortat = true;
-            for (int i = 0; i < n - 1; i++)
-                if (v[i] > v[i + 1]) {
-                    int aux = v[i];
-                    v[i] = v[i + 1];
-                    v[i + 1] = aux;
-                    sortat = false;
+        for(i=1 ;i<n ;i++)
+            for(j=i+1; j<n-1; j++)
+                if(X[i] > X[j])
+                {
+                    int aux=X[i];
+                    X[i]=X[j];
+                    X[j]=aux;
                 }
-        } while (!sortat);
-    }
 
         cout<<"Done\n";
         //for(i=1;i<=n;i++)
-        // cout<<X[i]<<" ";
+           // cout<<X[i]<<" ";
 
+    }
 
     return 0;
 }
